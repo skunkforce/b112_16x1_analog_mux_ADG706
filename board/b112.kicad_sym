@@ -6,7 +6,7 @@
     (property "Value" "ADG706BRUZ-REEL7" (id 1) (at 27.94 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "RU_28_ADI" (id 2) (at 27.94 6.096 0)
+    (property "Footprint" "b112:ADG706BRUZ-REEL7" (id 2) (at 27.94 6.096 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG706_707.pdf" (id 3) (at 0 0 0)

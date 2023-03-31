@@ -1327,7 +1327,7 @@
       (reference "LOGO1") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Symbol_6.7x6mm_SilkScreen")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/e86b8de3-3b82-487d-8483-15b38deac995"
-      (reference "U1") (unit 1) (value "ADG707BRUZ-REEL7") (footprint "b112:ADG707BRUZ-REEL7")
+      (reference "U1") (unit 1) (value "ADG706BRUZ") (footprint "b112:ADG706BRUZ-REEL7")
     )
   )
 )

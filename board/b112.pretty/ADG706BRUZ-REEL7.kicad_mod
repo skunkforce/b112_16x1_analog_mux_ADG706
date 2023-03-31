@@ -1,4 +1,4 @@
-(footprint "ADG707BRUZ-REEL7" (version 20211014) (generator pcbnew)
+(footprint "ADG706BRUZ-REEL7" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)
@@ -185,4 +185,9 @@
   (pad "26" smd rect (at 2.8194 -2.925) (size 1.4732 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f64cde1d-ad86-405d-9e9c-2e88323db399))
   (pad "27" smd rect (at 2.8194 -3.574999) (size 1.4732 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae14de5b-0bb2-44d7-95e1-0d78fc470ef4))
   (pad "28" smd rect (at 2.8194 -4.225) (size 1.4732 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 025229ae-58bf-4bcb-9584-ad68ddc8d964))
+  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_P0.65mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
